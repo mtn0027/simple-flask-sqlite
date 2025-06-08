@@ -1,6 +1,6 @@
 # Simple Flask + SQLite App (Dockerized)
 
-## 🛠 Стартиране
+## Стартиране
 
 ```bash
 docker-compose up --build
